@@ -1,4 +1,4 @@
-# download instructions
+# Download instructions
 Provide download instructions for He&amp;Li, 2022 (submitted to RAA).         
 Plase copy and paste the url to the adress bar of browser to start download.                           
 Grade-A catalogue: http://paperdata.china-vo.org/zzhe_naoc/LIS+QSO+Candidates/lis_gradeA_qso.csv                      
