@@ -41,8 +41,8 @@ w1:     w1-band magnitude (AB)
 w2:     w2-band magnitude (AB)    
 w3:     w3-band magnitude (AB)    
 w4:     w4-band magnitude (AB)       
-fluxw1w2: defined in eqution 5 in the paper
-fluxgrz: defined in eqution 5 in the paper
+fluxw1w2: defined in eqution 5 in the paper               
+fluxgrz: defined in eqution 5 in the paper               
 W: magnitude converted by fluxw1w2              
 grz: magnitude converted by fluxgrz              
                   
