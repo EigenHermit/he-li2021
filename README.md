@@ -34,5 +34,17 @@ otyp:   for negatives, it is other type in SIMBAD; for the positives, it is 'QSO
             
 ## Training sample:         
          
-
-
+ra:     right ascension (J2000)         
+dec:    declination (J2000)         
+g:      g-band magnitude (AB)         
+r:      r-band magnitude (AB)         
+z:      z-band magnitude (AB)         
+w1:     w1-band magnitude (AB)         
+w2:     w2-band magnitude (AB)                 
+mtyp:   for negatives, it is main type in SIMBAD; for the positives, it is 'QSO'                 
+otyp:   for negatives, it is other type in SIMBAD; for the positives, it is 'QSO'
+fluxg:  g-band flux (nanomaggies)         
+fluxr:  r-band flux (nanomaggies)         
+fluxz:  z-band flux (nanomaggies)         
+fluxw1: w1-band flux (nanomaggies)         
+fluxw2: w2-band flux (nanomaggies)         
