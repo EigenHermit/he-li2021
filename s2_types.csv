@@ -1,0 +1,69 @@
+mtyp,num,ratio(%),description,Star
+Stream*,1,8.15E-05,Stellar Stream ,Yes
+Orion_V*,1,8.15E-05, Variable Star of Orion Type,Yes
+Ae*,2,0.000162976,Herbig Ae/Be Star,Yes
+ISM,3,0.000244465, Interstellar matter ,No
+DkNeb,3,0.000244465,Dark Cloud (nebula),No
+Erupt*RCrB,3,0.000244465,Variable Star of R CrB type,Yes
+YSO,6,0.000488929, Young Stellar Object,Yes
+PulsV*bCep,6,0.000488929,Variable Star of beta Cep type,Yes
+Cloud,7,0.000570417,Cloud,No
+HIshell,7,0.000570417,HI shell ,No
+StarburstG,8,0.000651905,Starburst Galaxy ,No
+TTau*,11,0.00089637,T Tau star,Yes
+Pulsar,15,0.001222323,Pulsar,Yes
+Symbiotic*,17,0.001385299,Symbiotic Star  ,Yes
+post-AGB*,18,0.001466787,Post-AGB Star,Yes
+PulsV*RVTau,19,0.001548275, Variable Star of RV Tau type,Yes
+HVCld,22,0.00179274,High-velocity Cloud  ,Yes
+HI,23,0.001874228,HI (21cm) source  ,No
+Be*,33,0.00268911, Be Star    ,Yes
+SFregion,37,0.003015062,Star forming region,No
+Irregular_V*,42,0.003422503,Variable Star of irregular type  ,Yes
+PN,46,0.003748456, Planetary Nebula,No
+YellowSG*,46,0.003748456,Yellow supergiant star    ,Yes
+SG*,47,0.003829944,Evolved supergiant star  ,Yes
+Nova,50,0.004074408, Nova  ,Yes
+Assoc*,58,0.004726314,Association of Stars ,Yes
+S*,84,0.006845006,S Star,Yes
+SNR,92,0.007496912,SuperNova Remnant ,Yes
+RotV*alf2CVn,96,0.007822864, Variable Star of alpha2 CVn type,Yes
+MolCld,100,0.008148817,Molecular Cloud  ,No
+deltaCep,114,0.009289651,Classical Cepheid (delta Cep type) ,Yes
+Em*,122,0.009941557,Emission-line Star,Yes
+PulsV*WVir,127,0.010348998, Variable Star of W Vir type  ,Yes
+WR*,131,0.01067495,Wolf-Rayet Star,Yes
+EllipVar,147,0.011978761,Ellipsoidal variable Star,Yes
+AGB*,190,0.015482752,Asymptotic Giant Branch Star,Yes
+PulsV*,191,0.01556424,Pulsating variable Star,Yes
+BYDra,217,0.017682933, Variable of BY Dra type,Yes
+EmObj,286,0.023305616, Emission Object,No
+HV*,347,0.028276395, High-velocity Star ,Yes
+SN,383,0.031209969,SuperNova ,Yes
+Planet,402,0.032758244,Extra-solar Confirmed Planet   ,Yes
+brownD*,499,0.040662597,Brown Dwarf (M<0.08solMass) ,Yes
+CataclyV*,629,0.051256059,Cataclysmic Variable Star ,Yes
+Eruptive*,652,0.053130287,Eruptive variable Star,Yes
+Cepheid,671,0.054678562,Cepheid variable Star,Yes
+Cl*,674,0.054923026,Cluster of Stars ,Yes
+Mira,700,0.057041719,Variable Star of Mira Cet type,Yes
+PulsV*delSct,772,0.062908867, Variable Star of delta Sct type ,Yes
+SB*,1127,0.091837167,Spectroscopic binary   ,Yes
+RSCVn,1140,0.092896513,Variable of RS CVn type,Yes
+C*,1142,0.09305949,Carbon Star,Yes
+HII,1379,0.112372186,HII (ionized) region ,No
+GlCl,1934,0.15759812,Globular Cluster ,Yes
+LPV*,1950,0.158901931,Long-period variable star,Yes
+HotSubdwarf,2982,0.242997722, Hot subdwarf  ,Yes
+Pec*,3396,0.276733824,Peculiar Star ,Yes
+V*,6175,0.503189447, Variable Star,Yes
+RotV*,7978,0.650112617,Rotationally variable Star ,Yes
+**,9481,0.772589335,Binary Star,Yes
+HB*,11715,0.954633906,Horizontal Branch Star ,Yes
+WD*,16641,1.356044629,White Dwarf,Yes
+RGB*,17542,1.42946547, Red Giant Branch star,Yes
+RRLyr,28530,2.324857477,Variable Star of RR Lyr type  ,Yes
+EB*,30738,2.504783356,Eclipsing Binary ,Yes
+low-mass*,41338,3.368557953,Low-mass star,Yes
+PM*,88709,7.228734032,High proper motion star,Yes
+Star,945118,77.01593583,Star,Yes
