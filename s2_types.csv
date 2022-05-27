@@ -1,4 +1,4 @@
-mtyp,num,ratio(%),description,Star
+mtyp,num,ratio(%),description,is_Star
 Stream*,1,8.15E-05,Stellar Stream ,Yes
 Orion_V*,1,8.15E-05, Variable Star of Orion Type,Yes
 Ae*,2,0.000162976,Herbig Ae/Be Star,Yes
