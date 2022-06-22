@@ -57,8 +57,8 @@ r:      r-band magnitude (AB)
 z:      z-band magnitude (AB)         
 w1:     w1-band magnitude (AB)         
 w2:     w2-band magnitude (AB)                 
-mtyp:   for negatives, it is main type in SIMBAD; for the positives, it is 'QSO'                 
-otyp:   for negatives, it is other type in SIMBAD; for the positives, it is 'QSO'                 
+mtyp:   main type from SIMBAD; 
+otyp:   other type from SIMBAD;                 
 fluxg:  g-band flux (nanomaggies)         
 fluxr:  r-band flux (nanomaggies)         
 fluxz:  z-band flux (nanomaggies)         
