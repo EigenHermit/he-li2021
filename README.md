@@ -57,7 +57,7 @@ r:      r-band magnitude (AB)
 z:      z-band magnitude (AB)         
 w1:     w1-band magnitude (AB)         
 w2:     w2-band magnitude (AB)                 
-mtyp:   main type from SIMBAD; 
+mtyp:   main type from SIMBAD;                      
 otyp:   other type from SIMBAD;                 
 fluxg:  g-band flux (nanomaggies)         
 fluxr:  r-band flux (nanomaggies)         
