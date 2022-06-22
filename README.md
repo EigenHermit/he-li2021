@@ -32,7 +32,7 @@ w2:     w2-band magnitude (AB)
 mtyp:   for negatives, it is main type in SIMBAD; for the positives, it is 'QSO'                 
 otyp:   for negatives, it is other type in SIMBAD; for the positives, it is 'QSO'
 
-## Training sample(non-QSOs):    
+## Training sample(QSOs):    
 
 g:      g-band magnitude (AB)         
 r:      r-band magnitude (AB)         
