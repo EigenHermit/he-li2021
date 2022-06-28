@@ -8,9 +8,9 @@ Training sample (non-QSOs):http://paperdata.china-vo.org/zzhe_naoc/LIS+QSO+Candi
 Testing sample (QSOs+non-QSOs): http://paperdata.china-vo.org/zzhe_naoc/LIS+QSO+Candidates/tstset_modified.csv                   
 DECaLS/BASS+MzLS separate catalogues: https://nadc.china-vo.org/res/r101137/                        
 
-# Description of columns:
+# Description of columns
          
-## Grade-A and Grade-B catalogue:
+## Grade-A/Grade-B/DECaLS/BASS+MzLS catalogue
          
 ra:     right ascension (J2000)         
 dec:    declination (J2000)         
@@ -21,7 +21,7 @@ w1:     w1-band magnitude (AB)
 w2:     w2-band magnitude (AB)         
 score:  the probablity of being a QSO that given by RF model         
          
-## Testing sample:         
+## Testing sample        
          
 ra:     right ascension (J2000)         
 dec:    declination (J2000)         
@@ -33,7 +33,7 @@ w2:     w2-band magnitude (AB)
 mtyp:   for negatives, it is main type in SIMBAD; for the positives, it is 'QSO'                 
 otyp:   for negatives, it is other type in SIMBAD; for the positives, it is 'QSO'
 
-## Training sample(QSOs):    
+## Training sample(QSOs)    
 
 g:      g-band magnitude (AB)         
 r:      r-band magnitude (AB)         
@@ -49,7 +49,7 @@ grz: magnitude converted by fluxgrz
                   
 see https://www.legacysurvey.org/dr9/files/#survey-dr9-region-dr16q-v4-fits for other columns.
                         
-## Training sample(non-QSOs):         
+## Training sample(non-QSOs)         
          
 ra:     right ascension (J2000)         
 dec:    declination (J2000)         
